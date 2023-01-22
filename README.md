@@ -2,9 +2,9 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🔭 &nbsp; I’m currently working on Angular & Node.js Application Development.
+- 💼 &nbsp; I work as a Software Engineer.
+- 🔭 &nbsp; I’m currently working on Angular & Java Application Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 💼 &nbsp; I work as a Frontend Engineer.
 - 🌱 &nbsp; Enthusiast in Angular and Web Technologies in general.
 - ⚡ &nbsp; I have a passion for sleek user-friendly design and I love writing nicely architectured, clean and maintainable code.
 
